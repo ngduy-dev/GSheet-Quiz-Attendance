@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|d:\\nam_3_hki\\cnpm\\project\\giuaki\\qu\u00E1 tr\u00ECnh 2\\qt2_app_checkin\\quizgame\\quizgame\\formsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|solutionrelative:quizgame\\formsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizgame\\formsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|solutionrelative:quizgame\\formsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizgame\\formmodau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|solutionrelative:quizgame\\formmodau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|solutionrelative:quizgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizgame\\formtaodethitructiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B9309D3-DC27-4C83-BC76-2E4092E293BE}|quizGame\\quizGame.csproj|solutionrelative:quizgame\\formtaodethitructiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 100,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\Program.cs",
+              "RelativeDocumentMoniker": "quizGame\\Program.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\Program.cs",
+              "RelativeToolTip": "quizGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:00:47.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTaoDeThiTrucTiep.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\FormTaoDeThiTrucTiep.cs",
+              "RelativeDocumentMoniker": "quizGame\\FormTaoDeThiTrucTiep.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\FormTaoDeThiTrucTiep.cs [Design]",
+              "RelativeToolTip": "quizGame\\FormTaoDeThiTrucTiep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:59:01.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMoDau.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\FormMoDau.cs",
+              "RelativeDocumentMoniker": "quizGame\\FormMoDau.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\FormMoDau.cs [Design]",
+              "RelativeToolTip": "quizGame\\FormMoDau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:58:35.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSheet.cs",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\FormSheet.cs",
+              "RelativeDocumentMoniker": "quizGame\\FormSheet.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\FormSheet.cs",
+              "RelativeToolTip": "quizGame\\FormSheet.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:57:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSheet.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\FormSheet.cs",
+              "RelativeDocumentMoniker": "quizGame\\FormSheet.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\GiuaKi\\Qu\u00E1 tr\u00ECnh 2\\QT2_app_checkin\\quizGame\\quizGame\\FormSheet.cs [Design]",
+              "RelativeToolTip": "quizGame\\FormSheet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:57:03.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

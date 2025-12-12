@@ -1,0 +1,200 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\bin\Debug\quizGame.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\bin\Debug\quizGame.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\bin\Debug\quizGame.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.Form1.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\quizGame.exe.config
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\quizGame.exe
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.Form1.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.exe
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\bin\Debug\quizGame.exe.config
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\bin\Debug\quizGame.exe
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\bin\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\obj\Debug\quizGame.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\obj\Debug\quizGame.Form1.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\obj\Debug\quizGame.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\obj\Debug\quizGame.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\obj\Debug\quizGame.exe
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quizz\quizGame\quizGame\obj\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\bin\Debug\quizGame.exe.config
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\bin\Debug\quizGame.exe
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\bin\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.Form1.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.exe
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.FormMoDau.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.FormTaoMaQR.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\bin\Debug\QRCoder.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.csproj.Up2Date
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThi.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThiTrucTiep.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\Quizz\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThiTuFile.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\quizGame.exe.config
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\quizGame.exe
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Dapper.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Auth.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Core.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\QRCoder.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.CodeDom.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Dapper.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Auth.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Core.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Core.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.CodeDom.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.Form1.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormDanhSachSinhVien.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormMoDau.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormSheet.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThi.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThiTrucTiep.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThiTuFile.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormTaoMaQR.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.Up2Date
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.exe
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\RBush.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.IO.Packaging.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Memory.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.pdb
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\RBush.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.IO.Packaging.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Memory.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.exe.config
+C:\Users\ACER\Documents\Môn học\Công nghệ phần mềm\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.ResolveComReference.cache
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\quizGame.exe.config
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\quizGame.exe
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\quizGame.pdb
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.Parser.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Dapper.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelNumberFormat.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Auth.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Core.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Sheets.v4.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Newtonsoft.Json.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\QRCoder.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\RBush.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\SixLabors.Fonts.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Buffers.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.CodeDom.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.IO.Packaging.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Memory.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Numerics.Vectors.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Z.Dapper.Plus.dll
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.pdb
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ClosedXML.Parser.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Dapper.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.pdb
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\ExcelNumberFormat.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.pdb
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Auth.pdb
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Auth.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Core.pdb
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Core.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Sheets.v4.pdb
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Google.Apis.Sheets.v4.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Newtonsoft.Json.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\RBush.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\SixLabors.Fonts.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Buffers.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.CodeDom.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.IO.Packaging.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Memory.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Numerics.Vectors.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\bin\Debug\Z.Dapper.Plus.xml
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.AssemblyReference.cache
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.SuggestedBindingRedirects.cache
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.exe.config
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.ResolveComReference.cache
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.Form1.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormDanhSachSinhVien.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormMoDau.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormSheet.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThi.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThiTrucTiep.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormTaoDeThiTuFile.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.FormTaoMaQR.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.GenerateResource.cache
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.CoreCompileInputs.cache
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.csproj.Up2Date
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.exe
+D:\Nam_3_HKI\CNPM\Project\GiuaKi\Quá trình 2\QT2_app_checkin\quizGame\quizGame\obj\Debug\quizGame.pdb
