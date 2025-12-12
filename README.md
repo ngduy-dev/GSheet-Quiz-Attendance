@@ -20,4 +20,3 @@ Hệ thống tự động hóa quy trình điểm danh sinh viên dựa trên k�
 ## Clone repo
 ```bash
 git clone https://github.com/ngduy-dev/GSheet-Quiz-Attendance.git
-'''
