@@ -1,22 +1,51 @@
 # 📝 GSheet Quiz Attendance
 
-Hệ thống tự động hóa quy trình điểm danh sinh viên dựa trên kết quả làm bài Quiz (Google Forms). Dữ liệu được đồng bộ qua Google Sheets API để xử lý trạng thái vắng/có mặt và gửi cảnh báo email tự động.
+A C#-based automation system for tracking student attendance using quiz results collected via **Google Forms** and synchronized through **Google Sheets**.
 
-## 🚀 Tính năng chính
+The system automatically classifies attendance status (present/absent) based on predefined rules and sends email notifications when attendance thresholds are violated.
 
-1.  **Đồng bộ dữ liệu:** Tự động pull kết quả từ Google Sheets (liên kết với Google Forms).
-2.  **Logic điểm danh tự động:**
-    * ✅ **Có mặt:** Nộp đúng hạn (Deadline) **VÀ** Điểm số >= Ngưỡng đạt.
-    * ❌ **Vắng:** Nộp muộn **HOẶC** Điểm thấp hơn quy định.
-3.  **Báo cáo:** Xuất file danh sách sinh viên vắng theo từng lớp.
-4.  **Cảnh báo:** Tự động gửi email nhắc nhở nếu sinh viên vắng quá số buổi cho phép.
+---
 
-## 🛠 Công nghệ sử dụng
+## 🚀 Key Features
 
-* **Language:** Python 3.8+
-* **Google APIs:** Sheets API v4, Gmail API.
-* **Libraries:** `gspread` (hoặc `google-api-python-client`), `pandas`, `python-dotenv`.
+### 🔹 Automated Data Synchronization
+- Automatically pulls quiz submission data from **Google Sheets** linked to **Google Forms**
+- Periodic synchronization to keep attendance status up to date
 
-## Clone repo
+### 🔹 Rule-Based Attendance Logic
+- **Present**: Submitted before the deadline **and** score ≥ passing threshold  
+- **Absent**: Late submission **or** score below the required threshold
+
+### 🔹 Reporting
+- Generates absence reports grouped by class
+- Exports structured attendance summaries for administrative review
+
+### 🔹 Email Notifications
+- Automatically sends warning emails when a student exceeds the allowed number of absences
+- Uses **Gmail API** for secure email delivery
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** C#
+- **Framework:** .NET
+- **APIs:** Google Sheets API, Google Forms (via Sheets), Gmail API
+- **Others:** REST API integration, rule-based automation
+
+---
+
+## 🧩 System Workflow
+
+1. Quiz responses are collected via **Google Forms**
+2. Responses are synchronized to **Google Sheets**
+3. The C# application:
+   - Fetches data from Google Sheets
+   - Applies attendance rules
+   - Updates attendance status
+   - Generates reports
+   - Sends email notifications if needed
+
+### Clone the repository
 ```bash
 git clone https://github.com/ngduy-dev/GSheet-Quiz-Attendance.git
